@@ -13,6 +13,7 @@ Leon Lian - [Github Profile](https://github.com/ll5373128) <br/>
 ## Stakeholders
 
 Athan Zhang <br/>
+Who is he: 3rd year college student who wants to cook more and find innovative recipes while being financially responsible <br/>
 Problems:
 - what if recipes are not beginner friendly?
 - what if i don’t have enough ingredients or equipment to really make anything?
