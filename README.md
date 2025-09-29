@@ -49,10 +49,10 @@ PantryPal helps people find recipes based off ingredients they already have to c
 
 ## Activity Diagrams
 User #1: As someone who prefer certain cuisines over other, I want to be able to filter the type of cuisine so that I can make food that I like more.
-<img width="3202" height="1869" alt="user1project1UML" src="https://drive.google.com/file/d/1BKmkAAThtZ6VJO8_38JAnNZnQsOZOONj/view?usp=sharing" />
+<img width="3202" height="1869" alt="user1project1UML" src="./assets/User1_Project_1_UML_SWE_FALL 2025_ .drawio.png" />
 
 User #2: As someone on a diet, I want to be able to see the nutritional information of a recipe, so that I can track my calories and nutritional intakes.
-<img width="3202" height="1869" alt="user2project1UML" src="https://drive.google.com/file/d/1bJI1-xRJduIjcWaeYSvxsx8xeA1Rz2-y/view?usp=sharing" />
+<img width="3202" height="1869" alt="user2project1UML" src="./assets/User2_Project_1_UML_SWE_FALL 2025_ .drawio.png" />
 
 ## Clickable Prototype
 
