@@ -22,7 +22,7 @@ Problems:
 - what if i have allergies / food restrictions?
 
 Goals:
-- help me think of flavorful recipes that i can make on demand
+- help me think of a flavorful recipes that i can make on demand
 - let me be able to save recipes i want to make in the future or that i made and liked
 - let me be able to accommodate for substitutions
 - let me be able to sort by cooking time / cooking difficulty
@@ -33,19 +33,19 @@ PantryPal helps people find recipes based off ingredients they already have to c
 
 ## User Requirements
 
-- As a college student new to cooking, I want videos guides so that I can follow along without messing up. 
-- As a college student on a budget, I want to know the what ingredient I would need to purchase so that I can budget accordingly.
-- As someone unsure about a recipe, I want to see other users' review of a recipe so that it can help me decide if a recipe sound good or not.
-- As someone who prefer certain cuisines over other, I want to be able to filter the type of cuisine so that I can make food that I like more. 
+- As a college student new to cooking, I want video guides so that I can follow along without messing up. 
+- As a college student on a budget, I want to know  what ingredients I would need to purchase so that I can budget accordingly.
+- As someone unsure about a recipe, I want to see other users' reviews of a recipe so that I can decide if a recipe sounds good or not.
+- As someone who prefers certain cuisines over others, I want to be able to filter the type of cuisine so that I can make food that I enjoy more. 
 - As someone with allergies, I want to be able to filter for certain ingredients so that I can avoid allergens when making a recipe.
 - As someone on a diet, I want to be able to see the nutritional information of a recipe, so that I can track my calories and nutritional intakes.
-- As a college student with limited cooking utensils, I want to know how much pot/pan a recipe would need so that if I can make a recipe or if I need to buy more utensils for a recipe.
-- As someone who has dietary restrictions, I want to find recipes that don't use proteins or other foods I'm not allowed to eat so that I can cook meals I can actually eat.
-- As a college student living in a dorm without an oven, I want to know what cooking appliance a recipe would need so I can determine what recipe is feasible for my living situation.
-- As a forgetful person, I want to be able to save recipe I liked so that I can make them again when I feel like it.
+- As a college student with limited cooking utensils, I want to know how much pots/pans a recipe would need so that I can decide to follow a recipe or if I need to buy more utensils.
+- As someone who has dietary restrictions, I want to find recipes that don't use proteins or other foods I'm not allowed to eat so that I can cook meals that fit my preferences.
+- As a college student living in a dorm without an oven, I want to know what cooking appliances a recipe would need so that I can determine which recipes are feasible for my living situation.
+- As a forgetful person, I want to be able to save a recipe I liked so that I can make it again.
 - As someone who has a busy schedule, I want to find the quickest recipes available so that I can cook without messing up my schedule.
-- As someone who want to try different recipes, I want to be able to follow a chef I like so that I can easily find and try the new recipe they share.
-- As someone who don't want to waste food, I want to be able to find recipe that use up my leftover ingredients so that I can make most of what I already have.
+- As someone who wants to try different recipes, I want to be able to follow a chef I like so that I can easily find and try the new recipes they share.
+- As someone who doesn't want to waste food, I want to be able to find recipes that use up my leftover ingredients so that I can make the most of what I already have.
 
 ## Activity Diagrams
 
