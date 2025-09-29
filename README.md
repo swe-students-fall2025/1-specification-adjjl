@@ -4,11 +4,11 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 
-Jeffery Chen - https://github.com/jzc719 <br/>
-Asim Dulgeroglu - https://github.com/asimd0 <br/>
-Daniel Lee - https://github.com/dl4458-lgtm <br/>
-Jordan Lee - https://github.com/jjl9930 <br/>
-Leon Lian - https://github.com/ll5373128 <br/>
+Jeffrey Chen - [Github Profile](https://github.com/jzc719) <br/>
+Asim Dulgeroglu - [Github Profile](https://github.com/asimd0) <br/>
+Daniel Lee - [Github Profile](https://github.com/dl4458-lgtm) <br/>
+Jordan Lee - [Gitbhub Profile](https://github.com/jjl9930) <br/>
+Leon Lian - [Github Profile](https://github.com/ll5373128) <br/>
 
 ## Stakeholders
 
@@ -53,4 +53,5 @@ PantryPal helps people find recipes based off ingredients they already have to c
 
 ## Clickable Prototype
 
-See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
+[Link](https://www.figma.com/proto/MZNf7zDtPhqeIsAEKG4rLl/ADJJL-Proj-1?node-id=1-2&p=f&t=Dhv7uboplmLkTa0S-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2)
+
