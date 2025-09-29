@@ -29,7 +29,7 @@ Goals:
 
 ## Product Vision Statement
 
-See instructions. Delete this line and place your Product Vision Statement here.
+PantryPal helps people find recipes based off ingredients they already have to cook meals tailored to their own desires and dietary restrictions.
 
 ## User Requirements
 
