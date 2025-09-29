@@ -49,7 +49,7 @@ See instructions. Delete this line and place your Product Vision Statement here.
 
 ## Activity Diagrams
 
-See instructions. Delete this line and place images of your UML Activity diagrams here.
+<img width="3202" height="1869" alt="project1UML" src="https://github.com/user-attachments/assets/6a99ead7-6478-4381-b9ab-d33422ebdcbd" />
 
 ## Clickable Prototype
 
