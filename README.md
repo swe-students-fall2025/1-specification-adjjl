@@ -6,7 +6,7 @@ A little exercise to get started with the specification phase of the software de
 
 Jeffrey Chen - [Github Profile](https://github.com/jzc719) <br/>
 Asim Dulgeroglu - [Github Profile](https://github.com/asimd0) <br/>
-Daniel Lee - [Github Profile](https://github.com/dl4458-lgtm) <br/>
+Daniel Lee - [Github Profile](https://github.com/danielleesignup) <br/>
 Jordan Lee - [Gitbhub Profile](https://github.com/jjl9930) <br/>
 Leon Lian - [Github Profile](https://github.com/ll5373128) <br/>
 
